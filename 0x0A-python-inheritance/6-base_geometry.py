@@ -1,13 +1,11 @@
 #!/usr/bin/python3
-"""
-Module for BaseGeometry
+"""A module that contains a class BaseGeometry.
 """
 
 
 class BaseGeometry:
+    """A class BaseGeometry that raises an Exception with the message area()
+    is not yet implemented.
     """
-    still empty, area not implemented
-    """
-    # public instance method
     def area(self):
         raise Exception("area() is not implemented")

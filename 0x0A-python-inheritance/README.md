@@ -1,6 +1,1 @@
-# Python - Inheritance
-
-## 
-
-### Description
-
+# Inheritance 
